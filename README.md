@@ -1,2 +1,3 @@
 # hello-world
-This is a very fancy repository, please do enjoy. 
+Hello! 
+This is Balder, I like programming among other things. 
